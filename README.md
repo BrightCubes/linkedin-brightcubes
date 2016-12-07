@@ -2,7 +2,7 @@
 
 # linkedin-brightcubes
 
-## Get the required info from pages visited in Linkedin and save them to a database. NodeJS version 6+ is REQUIRED
+## Get the desired info from pages visited in Linkedin and save them to a database. NodeJS version 6+ is REQUIRED
 
 ## Installing:
 1. Install `NodeJS` v6.9 LTS or Higer https://nodejs.org/en/
