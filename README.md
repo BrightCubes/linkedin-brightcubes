@@ -1,3 +1,5 @@
+![linkedin-brightcubes](http://brightcubes.nl/wp-content/uploads/2016/08/logo_BC.png)
+
 # linkedin-brightcubes
 
 ## Get the required info from pages visited in Linkedin and save them to a database. NodeJS version 6+ is REQUIRED
