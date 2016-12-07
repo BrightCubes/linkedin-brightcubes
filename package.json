@@ -1,0 +1,28 @@
+{
+  "name": "brightcubes-get-profile",
+  "version": "0.4.0",
+  "description": "Get info on public profiles and put them in a JSON format",
+  "main": "home.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jsdom": "^9.8.3",
+    "bluebird": "^3.4.6",
+    "request-promise": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightCubes/linkedin-brightcubes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrightCubes/linkedin-brightcubes/issues"
+  },
+  "homepage": "https://github.com/BrightCubes/linkedin-brightcubes#readme"
+}
